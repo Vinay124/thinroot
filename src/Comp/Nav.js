@@ -59,8 +59,8 @@ export default function Nav() {
 
   return (
     <>
-    <header className='bg-gray-700 py-6 container-fluid'>
-      <nav className=' container mx-auto text-center text-gray-300 items-center font-sans'>
+    <header className='bg-gray-700 py-6 container-fluid '>
+      <nav className=' container mx-auto text-center text-gray-300 items-center font-sans '>
        <div className='topbar flex items-center justify-between w-full'>
           <div className='text-white-400 list-none flex items-center ml-5 text-sm'>
             {topbarMenu.map((values) =>(
