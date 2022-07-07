@@ -1,14 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-// import { Download } from "heroicons-react";
 import { QuestionCircleOutlined } from "@ant-design/icons";
-import { Avatar, Image, Button } from "antd";
-import { DownloadOutlined, sizetype } from "@ant-design/icons";
-import { UserAddOutlined } from "@ant-design/icons"; import { CloudDownloadOutlined } from "@ant-design/icons";
+import { Avatar, Button } from "antd";
+import { UserAddOutlined } from "@ant-design/icons"; 
 import { DownOutlined } from "@ant-design/icons";
-import { InfoCircleOutlined } from "@ant-design/icons";
-import { FolderOutlined } from "@ant-design/icons";
-import { TeamOutlined } from "@ant-design/icons";
 
 
 export default function Nav() {
